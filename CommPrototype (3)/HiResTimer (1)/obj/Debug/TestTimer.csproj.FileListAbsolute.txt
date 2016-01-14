@@ -1,0 +1,16 @@
+C:\su\CSE681\code\HiResTimerInterop\obj\Debug\TestTimer.exe
+C:\su\CSE681\code\HiResTimerInterop\obj\Debug\TestTimer.pdb
+C:\su\CSE681\code\HiResTimerInterop\bin\Debug\TestTimer.exe
+C:\su\CSE681\code\HiResTimerInterop\bin\Debug\TestTimer.pdb
+C:\su\CSE681\code\HiResTimerInterop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\HiResTimer (1)\obj\Debug\TestTimer.exe
+C:\Users\Ravi\Downloads\HiResTimer (1)\obj\Debug\TestTimer.pdb
+C:\Users\Ravi\Desktop\CommPrototype (3)\HiResTimer (1)\bin\Debug\TestTimer.exe
+C:\Users\Ravi\Desktop\CommPrototype (3)\HiResTimer (1)\bin\Debug\TestTimer.pdb
+C:\Users\Ravi\Desktop\CommPrototype (3)\HiResTimer (1)\obj\Debug\TestTimer.exe
+C:\Users\Ravi\Desktop\CommPrototype (3)\HiResTimer (1)\obj\Debug\TestTimer.pdb
+C:\Users\Ravi\Desktop\Project4_778388557\CommPrototype (3)\HiResTimer (1)\bin\Debug\TestTimer.exe
+C:\Users\Ravi\Desktop\Project4_778388557\CommPrototype (3)\HiResTimer (1)\bin\Debug\TestTimer.pdb
+C:\Users\Ravi\Desktop\Project4_778388557\CommPrototype (3)\HiResTimer (1)\obj\Debug\TestTimer.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\Project4_778388557\CommPrototype (3)\HiResTimer (1)\obj\Debug\TestTimer.exe
+C:\Users\Ravi\Desktop\Project4_778388557\CommPrototype (3)\HiResTimer (1)\obj\Debug\TestTimer.pdb

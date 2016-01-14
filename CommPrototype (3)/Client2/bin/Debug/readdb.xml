@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<count>5</count>
+ <Client2Message>
+  <key>1</key>
+   <Type>getvalue</Type>
+ </Client2Message>
+ <Client2Message>
+  <key>2</key>
+   <Type>getchildren</Type>
+ </Client2Message>
+</root>

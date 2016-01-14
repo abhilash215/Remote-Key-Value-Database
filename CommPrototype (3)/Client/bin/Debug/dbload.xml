@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<count>1</count>
+ <ClientMessage>
+  <key>1</key>
+   <name>SyracuseUniversity</name>
+    <descr>Masters</descr>
+     <payload>CE</payload>
+      <children>
+       <dbkey>1</dbkey> 
+       <dbkey>2</dbkey>
+      </children>
+    <Type>Insert</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>2</key>
+   <name>VTU</name>
+    <descr>Bachelors</descr>
+     <payload>Electronics</payload>
+      <children>
+       <dbkey>3</dbkey>
+       <dbkey>4</dbkey>
+      </children>
+     <Type>Insert</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>3</key>
+   <name>Bangalore</name>
+    <descr>Silicon City</descr>
+     <payload></payload>
+      <children>
+       <dbkey>5</dbkey>
+       <dbkey>6</dbkey>
+      </children>
+     <Type>Insert</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>3</key>
+   <Type>Delete</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>4</key>
+   <name>VTU</name>
+    <descr>Bachelors</descr>
+     <payload>Electronics</payload>
+      <children>
+       <dbkey>7</dbkey>
+       <dbkey>8</dbkey>
+      </children>
+     <Type>Insert</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>5</key>
+   <name>DOGS</name>
+    <descr>Labrador</descr>
+     <payload>Rooney</payload>
+      <children>
+       <dbkey>9</dbkey>
+       <dbkey>10</dbkey>
+      </children>
+     <Type>Insert</Type>
+ </ClientMessage>
+ <ClientMessage>
+  <key>5</key>
+   <name>DOGS</name>
+    <descr>Labrador</descr>
+     <payload>Rooney</payload>
+     <children>
+      <dbkey>9</dbkey>
+      <dbkey>10</dbkey>
+     </children>
+    <Type>EditName</Type>
+ </ClientMessage>
+<ClientMessage>
+  <key>4</key>
+   <name>VTU</name>
+    <descr>Bachelors</descr>
+     <payload>Electronics</payload>
+      <children>
+       <dbkey>7</dbkey>
+       <dbkey>8</dbkey>
+      </children>
+     <Type>EditDescr</Type>
+ </ClientMessage>
+<ClientMessage>
+  <key>2</key>
+   <name>VTU</name>
+    <descr>Bachelors</descr>
+     <payload>Electronics</payload>
+      <children>
+       <dbkey>3</dbkey>
+       <dbkey>4</dbkey>
+      </children>
+     <Type>Persist</Type>
+ </ClientMessage>
+</root>
+ 
